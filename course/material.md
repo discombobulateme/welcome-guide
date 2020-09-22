@@ -102,13 +102,13 @@ make sure before the class that it is running (On Mac it should appear the littl
 
 **Windows 10 Home Edition users** (or other editions that doesn't support current Docker version): There is a workaround to make it work -> [Docker Toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/). You can start from Step 2. If after finishing Step 3 you run `docker run hello-world` and get the response showed on the guide, you should be good to go for the class! Anyhow, if you can come a bit before the class we can check it together.
 
-## Heroku
+## Google Cloud Run
 
-After we create our containers with docker, we will deploy them to Heroku. When we deploy our apps, they will be accessible from anywhere in the world.
+After we create our containers with docker, we will deploy them to Google Cloud Run. When we deploy our apps, they will be accessible from anywhere in the world.
 
-To install Heroku CLI, please follow instructions on [Heroku Dev Center here](https://devcenter.heroku.com/articles/heroku-cli#download-and-install).
+To install Google Cloud Run, please follow instructions on [Quickstart: Build and Deploy here](https://cloud.google.com/run/docs/quickstarts/build-and-deploy).
 
-Please also create a free Heroku account before coming to the class. Here you can create it: <https://signup.heroku.com/>
+Please also create a Google Cloud Run account (you can use your Google account to sign in) before coming to the class. Here you can create it: <https://cloud.google.com/run/>. It requires a billing information and a credit card, but you will have $300 euros credits to use it.
 
 
 ----------
